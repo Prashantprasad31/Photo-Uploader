@@ -1,6 +1,6 @@
 
 var users = [
-    { email: "admin@gmail.com", password: "12345678", redirect: "" },
+    { email: "account", password: "12345678", redirect: "account.html" },
     { email: "Panel@gmail.com", password: "12345678", redirect: "page2.html" },
     { email: "kavith", password: "12345678", redirect: "Owner/owner.html" },
     { email: "kimaya123", password: "12345678", redirect: "Dashboard/dashboard.html" }
